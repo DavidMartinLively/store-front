@@ -1,0 +1,29 @@
+.navbar {
+    border: 1px solid gray;
+}
+
+.navbar h1 {
+    color: red;
+}
+
+.qt-picker {
+    color: gray;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+
+.qt-picker button {
+    margin-left: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+
+
+.qt-picker label {
+    font-size: 18px;
+    font-weight: bold;
+    color: rebeccapurple;
+}
